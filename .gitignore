@@ -1,0 +1,14 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/
